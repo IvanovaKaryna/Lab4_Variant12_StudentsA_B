@@ -1,0 +1,5 @@
+StudentB/build/
+StudentB/*.exe
+StudentB/*.dll
+StudentB/*.a
+StudentB/*.o
