@@ -1,0 +1,3 @@
+C:/Users/Кари/OneDrive/Рабочий стол/Lab4_Variant12_StudentA/TestImplicit/out/build/x64-Release/CMakeFiles/TestImplicit.dir
+C:/Users/Кари/OneDrive/Рабочий стол/Lab4_Variant12_StudentA/TestImplicit/out/build/x64-Release/CMakeFiles/edit_cache.dir
+C:/Users/Кари/OneDrive/Рабочий стол/Lab4_Variant12_StudentA/TestImplicit/out/build/x64-Release/CMakeFiles/rebuild_cache.dir
