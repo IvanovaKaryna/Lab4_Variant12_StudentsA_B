@@ -1,0 +1,5 @@
+C:/Users/Кари/OneDrive/Рабочий стол/Lab4_Variant12_StudentA/Test/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Кари/OneDrive/Рабочий стол/Lab4_Variant12_StudentA/Test/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Кари/OneDrive/Рабочий стол/Lab4_Variant12_StudentA/Test/out/build/x64-debug/Test/CMakeFiles/Test.dir
+C:/Users/Кари/OneDrive/Рабочий стол/Lab4_Variant12_StudentA/Test/out/build/x64-debug/Test/CMakeFiles/edit_cache.dir
+C:/Users/Кари/OneDrive/Рабочий стол/Lab4_Variant12_StudentA/Test/out/build/x64-debug/Test/CMakeFiles/rebuild_cache.dir
