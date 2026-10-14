@@ -1,6 +1,0 @@
-C:/Users/Кари/OneDrive/Рабочий стол/Lab4_Variant12_StudentA/StudentA_Static/out/build/x64-debug/CMakeFiles/edit_cache.dir
-C:/Users/Кари/OneDrive/Рабочий стол/Lab4_Variant12_StudentA/StudentA_Static/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Кари/OneDrive/Рабочий стол/Lab4_Variant12_StudentA/StudentA_Static/out/build/x64-debug/StudentA_Static/CMakeFiles/StudentA_Static.dir
-C:/Users/Кари/OneDrive/Рабочий стол/Lab4_Variant12_StudentA/StudentA_Static/out/build/x64-debug/StudentA_Static/CMakeFiles/TestStatic.dir
-C:/Users/Кари/OneDrive/Рабочий стол/Lab4_Variant12_StudentA/StudentA_Static/out/build/x64-debug/StudentA_Static/CMakeFiles/edit_cache.dir
-C:/Users/Кари/OneDrive/Рабочий стол/Lab4_Variant12_StudentA/StudentA_Static/out/build/x64-debug/StudentA_Static/CMakeFiles/rebuild_cache.dir
